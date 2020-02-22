@@ -1,0 +1,3 @@
+Notes :
+- Il faudrait appliquer la dernière méthode au calcul de probabilité.
+- Au dernier commentaire il est indiqué qu'il y a une erreur de code : ne pas en tenir compte, c'était valable pour l'avant-dernier commit mais pas pour le dernier.
